@@ -1,0 +1,4 @@
+imu_topic: "/imu/data"
+imu_rate: 1000.0
+measure_rate: 1000 # Rate to which imu data is subsampled
+sequence_time: 86400	# 24hr in sec
