@@ -1,5 +1,5 @@
 # allan_variance_ros2
-從 [allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) 修改
+從 [allan_variance_ros](https://github.com/ori-drs/allan_variance_ros) 修改而來
 ## BUILD
 ```shell
 cd ~/ros2_ws/src
